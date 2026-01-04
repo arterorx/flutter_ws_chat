@@ -1,0 +1,18 @@
+# Flutter
+flutter_client/build/
+flutter_client/.dart_tool/
+flutter_client/.idea/
+flutter_client/.metadata
+flutter_client/pubspec.lock
+
+# Node.js
+server/node_modules/
+server/npm-debug.log*
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
