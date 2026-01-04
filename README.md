@@ -47,6 +47,6 @@ Update it if your server runs elsewhere.
 ## Screenshots
 
 <p p="center">
-  <img src="assets/screenshots/username.png" width="300" />
-  <img src="assets/screenshots/chat.png" width="300" />
+  <img src="flutter_client/assets/screenshots/home.png" width="300" />
+  <img src="flutter_client/assets/screenshots/chat.png" width="300" />
 </p>
